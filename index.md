@@ -1,35 +1,35 @@
-## Portfolio
+## Projects
+
+[View all projects →](/projects)
 
 ---
 
-### Category Name 1 
+### Cerenode Explorer
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Interactive visualizations for healthcare/life sciences data
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- **Tech Stack:** AngularJS, Scala (Play Framework), D3.js
+- Built an interactive visualization platform for healthcare and life sciences data
+- Implemented complex data transformations and rendering optimizations
 
 ---
 
-### Category Name 2
+### Cerenode Mapper
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+ETL tool for ingesting and mapping heterogeneous data to RDF graph databases
+
+- **Tech Stack:** Scala, Akka, AngularJS
+- Developed ETL pipeline for processing heterogeneous data sources
+- Implemented RDF graph database integration for semantic data storage
+- Built real-time data mapping and transformation capabilities
+
+---
+
+### Other Work
+
+- [GitHub Profile]({{ site.github.owner_url }})
+- [LinkedIn](https://www.linkedin.com/in/mithun-raj-arackal/)
 
 ---
 
-
-
-
----
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
