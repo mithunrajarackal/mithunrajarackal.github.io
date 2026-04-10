@@ -1,12 +1,15 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
-description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+title: Mithun Raj Arackal
+logo: "/images/logo.png?raw=true"
+description: >
+  Software Engineer at Cerenode
   <br><br>
-  Second description 
+  Built Cerenode Explorer - interactive visualizations for healthcare/life sciences data using AngularJS, Scala (Play Framework), and D3.js
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
-  
+  Built Cerenode Mapper - ETL tool for ingesting and mapping heterogeneous data to RDF graph databases using Scala, Akka, and AngularJS
+  <br><br>
+  Skills: Scala, Akka, Play Framework, AngularJS, D3.js, RDF, Graph Databases
+  <br><br>
+  <a href="https://www.linkedin.com/in/mithun-raj-arackal/">View My LinkedIn Profile</a>
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
